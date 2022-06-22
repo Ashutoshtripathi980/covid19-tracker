@@ -1,4 +1,4 @@
-# COVID19 Tracker App by ASHUTOSH
+# COVID19 Tracker App
 
 It's a dedication to my closest friend who has been tested positive for COVID. Please take care of yourself and your family. Stay home, Stay Safe!
 
