@@ -10,6 +10,4 @@ A live trakcer for COVID19 stats across the Globe and my Home country India. It 
 
 ## Screen Shots
 
-<img src = "ScreenShot/splash.jpg" height = 450;> <img src = "ScreenShot/dashboard.jpg" height = 450;> 
-
-<img src = "ScreenShot/country.jpg" height = 450;> <img src = "ScreenShot/countryDetails.jpg" height = 450;> 
+<img src = "ScreenShot/splash.jpg" height = 450;> <img src = "ScreenShot/dashboard.jpg" height = 450;> <img src = "ScreenShot/country.jpg" height = 450;> <img src = "ScreenShot/countryDetails.jpg" height = 450;> 
